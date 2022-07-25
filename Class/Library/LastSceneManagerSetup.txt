@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Collision/Scene/Collision.unity
+- path: Assets/instantiate & Destroy/Scene/instantiate & Destroy.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
